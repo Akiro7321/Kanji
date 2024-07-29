@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Kanji/static/css/main.3f9632a5.css",
-    "main.js": "/Kanji/static/js/main.f0aff61b.js",
+    "main.js": "/Kanji/static/js/main.9eaf1840.js",
     "static/js/453.2a13ef94.chunk.js": "/Kanji/static/js/453.2a13ef94.chunk.js",
     "static/media/dungeon.png": "/Kanji/static/media/dungeon.9c9262b2d58f2c03a51d.png",
     "index.html": "/Kanji/index.html",
     "main.3f9632a5.css.map": "/Kanji/static/css/main.3f9632a5.css.map",
-    "main.f0aff61b.js.map": "/Kanji/static/js/main.f0aff61b.js.map",
+    "main.9eaf1840.js.map": "/Kanji/static/js/main.9eaf1840.js.map",
     "453.2a13ef94.chunk.js.map": "/Kanji/static/js/453.2a13ef94.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3f9632a5.css",
-    "static/js/main.f0aff61b.js"
+    "static/js/main.9eaf1840.js"
   ]
 }
