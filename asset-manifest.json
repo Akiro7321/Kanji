@@ -1,18 +1,19 @@
 {
   "files": {
     "main.css": "/Kanji/static/css/main.30087c32.css",
-    "main.js": "/Kanji/static/js/main.4f37fbbb.js",
+    "main.js": "/Kanji/static/js/main.4e681dc2.js",
     "static/js/453.c26a88ac.chunk.js": "/Kanji/static/js/453.c26a88ac.chunk.js",
     "static/media/dungeon.png": "/Kanji/static/media/dungeon.9c9262b2d58f2c03a51d.png",
+    "static/media/slime_big.png": "/Kanji/static/media/slime_big.c1fd6c53199befb2f7bf.png",
     "static/media/slime_med.png": "/Kanji/static/media/slime_med.e48177a0564eef4e0047.png",
     "static/media/slime_small.png": "/Kanji/static/media/slime_small.82bb9cb17b5f7a48e021.png",
     "index.html": "/Kanji/index.html",
     "main.30087c32.css.map": "/Kanji/static/css/main.30087c32.css.map",
-    "main.4f37fbbb.js.map": "/Kanji/static/js/main.4f37fbbb.js.map",
+    "main.4e681dc2.js.map": "/Kanji/static/js/main.4e681dc2.js.map",
     "453.c26a88ac.chunk.js.map": "/Kanji/static/js/453.c26a88ac.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.30087c32.css",
-    "static/js/main.4f37fbbb.js"
+    "static/js/main.4e681dc2.js"
   ]
 }
